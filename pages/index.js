@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import PriceComponent from './components/price';
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
     </Head>
 
     <div className="">
-       
+       <PriceComponent/>
     </div>
   </div>
   );
