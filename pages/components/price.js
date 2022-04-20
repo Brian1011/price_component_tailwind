@@ -1,6 +1,6 @@
 export default function PriceComponent() {
     return (
-        <div className="bg-red-600 sm:h-screen min-h-screen w-screen flex items-center justify-center">
+        <div className="bg-black sm:h-screen min-h-screen w-screen flex items-center justify-center">
             <div className="min-h-screen w-full flex flex-col items-center justify-center mx-6 xl-mx-0">
                 {/*Break points*/}
                 <div className="text-white text-4xl py-6 text-center">
