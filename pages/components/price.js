@@ -56,7 +56,7 @@ export default function PriceComponent() {
               </div>
 
               <div
-                className="rounded-md border border-red-600"
+                className="rounded-md border border-black"
                 style={{ background: "black" }}
               >
                 <div className="py-4 text-white flex justify-center text-lg">
