@@ -33,8 +33,8 @@ export default function PriceComponent() {
                 </ul>
               </div>
 
-              <div className="border rounded-md border-red-600">
-                <div className="py-4 text-red-600 flex justify-center text-lg">
+              <div className="border rounded-md border-white">
+                <div className="py-4 text-white flex justify-center text-lg">
                   Start now
                 </div>
               </div>
